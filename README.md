@@ -229,26 +229,6 @@ GET /api/projects/:id
 
 ---
 
-## Screenshots
-
-### Home Page
-
-(Add screenshot here)
-
-### About Page
-
-(Add screenshot here)
-
-### Projects Page
-
-(Add screenshot here)
-
-### Contact Page
-
-(Add screenshot here)
-
----
-
 ## Future Enhancements
 
 * Admin Dashboard
@@ -292,7 +272,7 @@ GitHub:
 https://github.com/REETHUPERIYASAMY
 
 LinkedIn:
-(Add your LinkedIn Profile URL)
+(www.linkedin.com/in/reethu-p)
 
 Email:
 [230374.it@rmkec.ac.in](mailto:230374.it@rmkec.ac.in)
