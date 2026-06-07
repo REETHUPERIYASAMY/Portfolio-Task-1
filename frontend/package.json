@@ -1,0 +1,30 @@
+{
+  "name": "personal-portfolio-frontend",
+  "version": "1.0.0",
+  "description": "A personal portfolio website to showcase projects and skills.",
+  "main": "index.jsx",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^5.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.3.2",
+    "eslint": "^7.32.0",
+    "eslint-plugin-react": "^7.27.1",
+    "vite": "^2.6.4"
+  },
+  "keywords": [
+    "portfolio",
+    "react",
+    "frontend"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
